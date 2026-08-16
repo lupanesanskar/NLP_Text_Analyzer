@@ -8,6 +8,7 @@ A Tkinter desktop app with login/register that lets users run basic NLP tasks on
 - **NER** — powered by GLiNER (`urchade/gliner_base`), search for a specific entity type in your text
 - **Sentiment Analysis** — powered by VADER, classifies text as Positive/Negative/Neutral
 - **Language Detection** — powered by `langdetect`
+- 
 
 ## What can it do ?
 
@@ -24,6 +25,7 @@ A Tkinter desktop app with login/register that lets users run basic NLP tasks on
     - Positive
     - Negative
     - Neutral
+      
 
 ## Setup
 
@@ -32,13 +34,16 @@ pip install -r requirements.txt
 python app.py
 ```
 
+
 Make sure `images/favicon.ico` exists in the project folder (used as the window icon).
+
 
 ## Files
 
 - `app.py` — main GUI app
 - `my_db.py` — handles login/register, reads & writes `data.json`
 - `data.json` — local storage for user accounts
+
 
 ## Note
 
