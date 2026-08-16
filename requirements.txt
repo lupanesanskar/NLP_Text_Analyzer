@@ -1,0 +1,4 @@
+gliner
+huggingface_hub
+vaderSentiment
+langdetect
