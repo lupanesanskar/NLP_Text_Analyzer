@@ -34,8 +34,6 @@ python app.py
 ```
 
 
-Make sure `images/favicon.ico` exists in the project folder (used as the window icon).
-
 
 ## Files
 
