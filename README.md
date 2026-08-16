@@ -9,6 +9,22 @@ A Tkinter desktop app with login/register that lets users run basic NLP tasks on
 - **Sentiment Analysis** — powered by VADER, classifies text as Positive/Negative/Neutral
 - **Language Detection** — powered by `langdetect`
 
+## What can it do ?
+
+  - **Named Entity Recognition (NER)**
+  - Detects entities from a given sentence.
+  - For example, it can identify things such as names, locations, organizations, etc.
+
+- **Language Detection**
+  - Detects the language of the entered text.
+  - Supports languages such as English, French, Spanish, German, Hindi, Japanese, Chinese, and more.
+
+- **Sentiment Analysis**
+  - Determines whether the given text is:
+    - Positive
+    - Negative
+    - Neutral
+
 ## Setup
 
 ```
