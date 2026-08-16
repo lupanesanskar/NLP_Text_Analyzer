@@ -8,7 +8,6 @@ A Tkinter desktop app with login/register that lets users run basic NLP tasks on
 - **NER** — powered by GLiNER (`urchade/gliner_base`), search for a specific entity type in your text
 - **Sentiment Analysis** — powered by VADER, classifies text as Positive/Negative/Neutral
 - **Language Detection** — powered by `langdetect`
-- 
 
 ## What can it do ?
 
