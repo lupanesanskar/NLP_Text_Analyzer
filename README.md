@@ -11,7 +11,7 @@ A Tkinter desktop app with login/register that lets users run basic NLP tasks on
 
 ## What can it do ?
 
-  - **Named Entity Recognition (NER)**
+- **Named Entity Recognition (NER)**
   - Detects entities from a given sentence.
   - For example, it can identify things such as names, locations, organizations, etc.
 
